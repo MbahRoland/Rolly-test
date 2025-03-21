@@ -1,0 +1,2 @@
+i now have a better understanding of git versioning
+devops can be very relaxing if understood properly
